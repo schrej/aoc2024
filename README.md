@@ -1,4 +1,4 @@
-# aoc2023
+# Advent of Code ~~2023~~ 2024
 
 Rust, maybe I'll learn it this time.
 
